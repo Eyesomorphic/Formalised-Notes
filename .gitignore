@@ -1,1 +1,14 @@
+# Agda interface files
 *.agdai
+
+# Agda LaTex sty file
+*.sty
+
+# Unwanted LaTeX output
+*.tex
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.ptb
+*.synctex.gz
